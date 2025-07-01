@@ -46,6 +46,8 @@ height="300"
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontHeadlock&layout=compact&theme=transparent&hide_border=true&langs_count=8)
 
+---
+
 ## 📫 **Connect with Me**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmpark007@gmail.com)
