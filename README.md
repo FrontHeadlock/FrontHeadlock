@@ -3,7 +3,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=FrontHeadlock&utm_content=farm">
 <img
 src="https://render.gitanimals.org/farms/FrontHeadlock"
-width="1300"
+width="1400"
 height="300"
 />
 </a>
