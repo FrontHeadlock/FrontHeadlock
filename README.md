@@ -35,9 +35,9 @@
 
 ## 📊 **GitHub Analytics**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo1228&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontHeadlock&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo1228&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontHeadlock&layout=compact&theme=transparent&hide_border=true&langs_count=8)
 
 ## 📫 **Connect with Me**
 
