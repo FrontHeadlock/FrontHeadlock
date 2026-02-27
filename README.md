@@ -38,7 +38,7 @@ height="300"
 
 ## Open Source Contributions
 
-- JenkinsCI Docker Removed unused `retry_command` from jenkins-support ![PR](https://github.com/jenkinsci/docker/pull/2268)
+- [![JenkinsCI PR](https://img.shields.io/badge/JenkinsCI-PR%20%232268-blue)](https://github.com/jenkinsci/docker/pull/2268) Removed unused `retry_command` from jenkins-support 
 
 ---
 
