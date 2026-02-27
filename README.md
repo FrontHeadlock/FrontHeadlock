@@ -36,11 +36,9 @@ height="300"
 
 ---
 
-## 📊 **GitHub Analytics**
+## Open Source Contributions
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontHeadlock&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontHeadlock&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+- JenkinsCI Docker Removed unused `retry_command` from jenkins-support ![PR](https://github.com/jenkinsci/docker/pull/2268)
 
 ---
 
