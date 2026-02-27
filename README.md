@@ -10,11 +10,21 @@ height="300"
 
 <br></br>
 
+🎓 Majored Computer Science and Information Engineering
+> 2020.03 - 2026.02
+
+🎓 Hyundai AutoEver MobilitySW School Cloud Engineering
+> 2025.12.18 - Present
+
+<br></br>
+
 ## Open Source Contributions
 
 - [![JenkinsCI PR](https://img.shields.io/badge/JenkinsCI-PR%20%232268-blue)](https://github.com/jenkinsci/docker/pull/2268) Removed unused `retry_command` from jenkins-support 
 
 <br></br>
+
+
 
 ## 📫 **Connect with Me**
 
