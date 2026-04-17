@@ -14,10 +14,10 @@ height="300"
 > 2020.03 - 2026.02
 
 🎓 Hyundai AutoEver MobilitySW School Cloud Engineering
-> 2025.12.18 - Present
+> 2025.12.18 - 2026.06.29
 
  💻 OpenSource Contribution Academy ( OpenStack)
-> 2026.04.16 - Present
+> 2026.04.16 - 2026.06.02
 
 
 <br></br>
