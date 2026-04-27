@@ -16,7 +16,7 @@ height="300"
 🎓 Hyundai AutoEver MobilitySW School Cloud Engineering
 > 2025.12.18 - 2026.06.29
 
- 💻 OpenSource Contribution Academy ( OpenStack)
+ 💻 OSSCA OpenStack
 > 2026.04.16 - 2026.06.02
 
 
