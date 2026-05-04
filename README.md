@@ -10,15 +10,14 @@ height="300"
 
 <br></br>
 
-🎓 Majored Computer Science and Information Engineering
+🎓 [Majored] Computer Science and Information Engineering
 > 2020.03 - 2026.02
 
-🎓 Hyundai AutoEver MobilitySW School Cloud Engineering
+🎓 [Hyundai AutoEver SW School] Cloud Engineering
 > 2025.12.18 - 2026.06.29
 
- 💻 OSSCA OpenStack
+ 💻 [OSSCA] OpenStack
 > 2026.04.16 - 2026.06.02
-
 
 <br></br>
 
