@@ -14,10 +14,13 @@ height="300"
 > 2020.03 - 2026.02
 
 🎓 [Hyundai AutoEver SW School] Cloud Engineering
-> 2025.12.18 - 2026.06.29
+> 2025.12 - 2026.05
 
  💻 [OSSCA] OpenStack
-> 2026.04.16 - 2026.06.02
+> 2026.04 - 2026.06
+
+ 🏢 [Telechips] DevOpsTeam
+> 2026.05 - 
 
 <br></br>
 
